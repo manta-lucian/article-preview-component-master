@@ -23,6 +23,9 @@ body {
 html {
   font-size: 62.5%;
 }
+body {
+  overflow: hidden;
+}
 /*
   Typographic tweaks!
   4. Add accessible line-height
